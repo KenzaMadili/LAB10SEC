@@ -58,7 +58,7 @@
 
 ### 4.1 Détection de l'architecture
 
-<img width="550" height="86" alt="7" src="https://github.com/user-attachments/assets/b7e34b16-3108-4999-9b76-81356116ac05" />
+<img width="357" height="44" alt="4" src="https://github.com/user-attachments/assets/269ab32a-9434-4c0f-9817-78493c027a93" />
 
 ### 4.2 Téléchargement de frida-server
 
@@ -72,10 +72,7 @@
 
 ### 4.4 Déploiement sur l'émulateur
 
-```powershell
-adb push frida-server /data/local/tmp/frida-server
-adb shell chmod 755 /data/local/tmp/frida-server
-```
+<img width="550" height="86" alt="7" src="https://github.com/user-attachments/assets/0dfb42ef-e625-4e52-97e4-c0a35a2d1c02" />
 
 ### 4.5 Lancement en root
 
